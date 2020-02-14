@@ -31,6 +31,23 @@
 # }
 
 def naming_system
+ life1 = {
+  Kingdom:=> "Kingdom",
+  sub_category: {
+    
+   
+   
+   
+   
+   
+   
+   
+   
+ }
+  
+  
+  
+  
   # Remember:
   #  Kingdom
   #  Phylum
