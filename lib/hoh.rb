@@ -40,6 +40,11 @@ def naming_system
     }
   }
  }
+ 
+ life2 = {
+   label: "Order"
+   
+ }
     
     
    
@@ -65,4 +70,5 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
 life1
+life2
 end
