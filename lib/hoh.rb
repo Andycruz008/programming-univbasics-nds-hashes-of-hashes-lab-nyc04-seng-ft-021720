@@ -70,5 +70,5 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
 life1
-life2
+
 end
