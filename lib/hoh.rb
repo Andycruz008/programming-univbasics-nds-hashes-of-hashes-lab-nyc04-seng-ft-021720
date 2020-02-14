@@ -32,22 +32,24 @@
 
 def naming_system
  life1 = {
-  kingdom: "Kingdom",
+  label: "Kingdom",
   sub_category: {
-    phylum: "Phylum",
+  label: "Phylum"
     sub_category: {
-      
-    
-    
-   
-   
-   
-   
-   
-   
-   
-   
+  label: "Class"
+    }
+  }
  }
+    
+    
+   
+   
+   
+   
+   
+   
+   
+
   
   
   
