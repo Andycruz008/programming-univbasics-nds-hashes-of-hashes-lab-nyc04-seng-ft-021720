@@ -32,9 +32,8 @@
 
 def naming_system
  life1 = {
-  kingdom: "Kingdom
-  
-  
+  kingdom: "Kingdom",
+  sub_category: {
     
    
    
